@@ -1,9 +1,7 @@
 # Mobile Developer| Data Analyst | Data Scientist | ML Engineer - Seeking Opportunities
 
 
-<h1 align="center">👋 Hey there! I'm Abhin! </h1>
-<h3 align="center">a Computer Engineering graduate from Diponegoro University with over 2 years of adept in data analysis and machine learning. Currently, I'm working at an IT company where I develop mobile apps using React Native.</h3>
-<br>
+Hey there! I'm Abhin! a Computer Engineering graduate from Diponegoro University with over 2 years of adept in data analysis and machine learning. Currently, I'm working at an IT company where I develop mobile apps using React Native
 
 ## About Me
 - 🎓 Computer Engineer| Diponegoro University
@@ -20,7 +18,6 @@
 - 🌱 I'm excited to join a dynamic team where I can collaborate on challenging projects.
 - 🚀 Open to both full-time positions and freelance opportunities.
 - 💼 Seeking a role that encourages innovation, growth, and continuous learning.
-
 
 ## Let's Connect
 - 📧 Feel free to reach out to me at abhinsquare@gmail.com!
